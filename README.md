@@ -7,7 +7,6 @@
 Este projeto analisa o consumo diário de cerveja em um bairro universitário de São Paulo, Brasil. Um ambiente social com festas e eventos frequentes, frequentado principalmente por estudantes entre 18 e 28 anos.
 
 <aside>
-💡
 
 Hipótese: **Clima, fins de semana e feriados impactam de forma significativa o consumo de cerveja em um ambiente universitário e social?**
 
@@ -42,7 +41,6 @@ Gerar insights acionáveis que possam apoiar o planejamento de estoque, campanha
     
 
 <aside>
-💡
 
 ### **Variáveis derivadas criadas para análise:**
 
@@ -59,7 +57,6 @@ Gerar insights acionáveis que possam apoiar o planejamento de estoque, campanha
 ## Ferramentas Utilizadas
 
 <aside>
-💡
 
 **Power BI** e **Power Query** para transformação de dados, análise e dataviz
 
@@ -146,7 +143,6 @@ Entretanto, quando o volume ultrapassa esse limite, observa-se uma **queda acent
 # Conclusões
 
 <aside>
-💡
 
 > O consumo de cerveja em um ambiente universitário é **altamente sazonal e sensível ao clima e aos padrões do calendário**.
 > 
@@ -169,8 +165,6 @@ Marcas e distribuidores que atendem ao público jovem podem **aproveitar esses p
 Obrigado pela leitura!
 
 # Sobre o autor
-
-![123456789.png](resources/123456789.png)
 
 **Lucas Correa**
 
