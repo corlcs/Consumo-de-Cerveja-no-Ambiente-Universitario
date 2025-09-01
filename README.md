@@ -69,7 +69,7 @@ Gerar insights acionáveis que possam apoiar o planejamento de estoque, campanha
 
 # 11 Campos de futebol… De cerveja
 
-![xO7McLtthA8R28YkioZCo.jpg](xO7McLtthA8R28YkioZCo.jpg)
+![xO7McLtthA8R28YkioZCo.jpg](resources/xO7McLtthA8R28YkioZCo.jpg)
 
 ## **27,27 milhões de long necks**
 
@@ -81,7 +81,7 @@ Gerar insights acionáveis que possam apoiar o planejamento de estoque, campanha
 - **Verão** apresentou o maior consumo médio, seguido da **primavera**.
 - **Inverno** mostrou queda acentuada, possivelmente influenciada pelo frio e recessos acadêmicos.
 
-![image.png](image.png)
+![image.png](resources/image.png)
 
 # A preferência, no entanto, continua “nem muito quente, nem muito frio”
 
@@ -94,15 +94,15 @@ Então, a preferência em beber cerveja é quando o clima está **agradável**, 
 
 ### Temperatura Mínima
 
-![image.png](image%201.png)
+![image.png](resources/image%201.png)
 
 ### Temperatura Máxima
 
-![image.png](image%202.png)
+![image.png](resources/image%202.png)
 
 ### Temperatura Média
 
-![image.png](image%203.png)
+![image.png](resources/image%203.png)
 
 # Top Meses de Consumo
 
@@ -111,24 +111,24 @@ Então, a preferência em beber cerveja é quando o clima está **agradável**, 
 - **Recesso de Inverno:** O ponto mais baixo do ano, em Julho (Mês 7), registra um consumo ~13% menor que a média, mostrando o impacto direto das férias de inverno.
 - **Retorno às Aulas e Fim de Ano:** O consumo em **Dezembro (Mês 12)** sobe para um patamar **~9% acima da média**, impulsionado pelas celebrações de formatura e final de ano.
 
-![image.png](image%204.png)
+![image.png](resources/image%204.png)
 
 # Fim de semana é festa
 
 - Sábados, domingos e sexta-feiras tiveram, em média, até 25**% mais consumo** em comparação aos dias úteis.
 - **Sextas-feiras,** mesmo com um consumo não tão grande quanto os outros, apresentaram um pequeno aumento marcando o início dos eventos do fim de semana.
 
-![image.png](image%205.png)
+![image.png](resources/image%205.png)
 
 Comparação da média do fim de semana com os dias comuns:
 
-![image.png](image%206.png)
+![image.png](resources/image%206.png)
 
 # Feriados e Datas Especiais
 
 Feriados não geraram picos tão notáveis de consumo. Há um aumento sim comparando a média de consumo, mas de somente **0,8%**
 
-![image.png](image%207.png)
+![image.png](resources/image%207.png)
 
 # Quanto maior a chuva, menor o consumo de cerveja
 
@@ -139,7 +139,7 @@ Entretanto, quando o volume ultrapassa esse limite, observa-se uma **queda acent
 - **Até 50 mm** o consumo médio é de ~24,9 mil litros
 - **Acima de 50 mm** o consumo médio cai para ~20,3 mil litros (uma redução de 18,5%)
 
-![image.png](image%208.png)
+![image.png](resources/image%208.png)
 
 ---
 
@@ -170,7 +170,7 @@ Obrigado pela leitura!
 
 # Sobre o autor
 
-![123456789.png](123456789.png)
+![123456789.png](resources/123456789.png)
 
 **Lucas Correa**
 
