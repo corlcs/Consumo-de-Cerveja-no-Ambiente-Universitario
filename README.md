@@ -1,6 +1,6 @@
 # Como o Clima e os Feriados Impactam o Consumo de Cerveja no Ambiente Universitário?
 
-![4PLGTtJ93k5toE-7lTrF122222.png](4PLGTtJ93k5toE-7lTrF122222.png)
+![4PLGTtJ93k5toE-7lTrF122222.png](resources/4PLGTtJ93k5toE-7lTrF122222.png)
 
 # Contexto
 
